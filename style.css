@@ -317,14 +317,6 @@ body {
   }
 }
 
-/* FOOTER */
-.site-footer {
-  text-align: center;
-  padding: 1.8rem 0 2.4rem;
-  font-size: 0.85rem;
-  color: #f5f5f5;
-  opacity: 0.9;
-}
 
 /* ÉCRANS PETITS (≤ 375px)  */
 @media (max-width: 375px) {
@@ -340,8 +332,8 @@ body {
 
   /* Réorganisation du header */
   .card-header {
-    flex-direction: column;        /* tout en colonne */
-    align-items: center;           /* centrer le contenu */
+    flex-direction: column;        
+    align-items: center;           
     text-align: center;
     gap: 0.7rem;
   }
