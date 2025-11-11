@@ -37,9 +37,9 @@ Ce projet a pour but de :
 
 ### Liens du projet
 
-- Lien du dépôt GitHub :
+- Lien du dépôt GitHub : https://github.com/Abdallah-Alher/Tesimonial_Page.git
 
-- Lien de la page déployée :
+- Lien de la page déployée : https://abdallah-alher.github.io/Tesimonial_Page/
 
 ### Auteur
 
