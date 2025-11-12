@@ -319,7 +319,7 @@ body {
 
 
 /* ÉCRANS PETITS (≤ 375px)  */
-@media (max-width: 375px) {
+@media (max-width: 425px) {
   .testimonials-grid {
     grid-template-columns: 1fr;
     gap: 1.2rem;
